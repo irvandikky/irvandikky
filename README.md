@@ -3,7 +3,19 @@
 👀 I’m interested in Web / API Development
 🌱 I’m currently learning Node.JS
 
-I am a Web Developer with almost five years of experience working in the field of Web, SEO, and Laravel (Backend PHP) Development. I am currently working as a freelancer for various companies. <br><br>Additionally, I am experienced in developing projects using various programming languages such as PHP, Vue JS, Wordpress etc. as well as with a number of programming tools such as MYSQL, Adobe Photoshop and also with HTML/CSS. <br><br>I have also spent a security pentesting amount of time working with bug bounty. Currently got report valid and awarded from:<br><br>Google : 1 times<br>Microsoft: 2 times<br>Paypal: 1 times<br>Semrush: 2 time<br>Spotify : 1 time<br>Tokopedia: 5 times<br>DANA: 1 time<br><br>Web Developer | Web Development | DevOps
+I am a proficient Full Stack Engineer with over 5+ years of experience, specializing in backend development and Rest API implementation within the PHP ecosystem, with a strong command of frameworks such as Laravel and WordPress. Proficient in crafting seamless user experiences by leveraging frontend technologies including Vue.js, Nuxt.js, Tailwind, and Bootstrap. Passionate about optimizing digital presence through a comprehensive understanding of SEO and analytics. Continuously seeking innovative ways to bridge the gap between functionality and aesthetics to deliver high-quality, performance-driven web solutions.
+
+I have also dedicated a significant amount of time to security pentesting and bug bounty programs. I have successfully identified and reported valid security issues, resulting in awards from:
+
+Google : 1 times</br>
+Microsoft: 2 times</br>
+Paypal: 1 times</br>
+Semrush: 2 time</br>
+Spotify : 1 time</br>
+Tokopedia: 5 times</br>
+DANA: 1 time</br>
+
+Web Developer | Web Development | DevOps
 
 
 ## 🌐 Socials:
